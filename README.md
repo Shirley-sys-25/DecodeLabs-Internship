@@ -52,7 +52,7 @@ Mapping des soldes utilisateurs (balanceOf).
 Sécurisation des transferts avec une protection stricte contre les découverts (Anti-Overdraft/Underflow).
 
 
-* Comment tester ces projets ?
+**Comment tester ces projets ?**
 
 - Python (Projet 1) : Exécutez le fichier blockchain.py dans n'importe quel terminal local pour voir la simulation de minage et de détection de piratage.
 
